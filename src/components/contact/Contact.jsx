@@ -15,7 +15,7 @@ const Contact = () => {
       <div className="left">
       <img src="assets/hanshake.png" alt="" /></div>
       <div className="right">
-      <h2>Contact.</h2>
+      <h2>Contact me.</h2>
       <form onSubmit={handleSubmit}>
         <input type="text" placeholder="Email"/>
         <textarea placeholder='Messgae'></textarea>
